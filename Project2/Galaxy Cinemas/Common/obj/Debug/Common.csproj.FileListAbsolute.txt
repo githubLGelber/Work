@@ -1,0 +1,6 @@
+F:\vp1_work2\Project2\Galaxy Cinemas\Common\bin\Debug\Common.dll
+F:\vp1_work2\Project2\Galaxy Cinemas\Common\bin\Debug\Common.pdb
+F:\vp1_work2\Project2\Galaxy Cinemas\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\vp1_work2\Project2\Galaxy Cinemas\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+F:\vp1_work2\Project2\Galaxy Cinemas\Common\obj\Debug\Common.dll
+F:\vp1_work2\Project2\Galaxy Cinemas\Common\obj\Debug\Common.pdb
