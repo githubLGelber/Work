@@ -1,0 +1,17 @@
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\GalaxyCinemas.exe.config
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.BookingForm.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ExportDataForm.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ImportDataForm.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ImportResultsPopup.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.MainForm.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.Properties.Resources.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.csproj.GenerateResource.Cache
+F:\vp1_work2\Project2\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.csprojResolveAssemblyReference.cache
+F:\vp1_work2\Project2\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.BookingForm.resources
+F:\vp1_work2\Project2\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ExportDataForm.resources
+F:\vp1_work2\Project2\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ImportDataForm.resources
+F:\vp1_work2\Project2\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ImportResultsPopup.resources
+F:\vp1_work2\Project2\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.MainForm.resources
+F:\vp1_work2\Project2\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.Properties.Resources.resources
+F:\vp1_work2\Project2\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.csproj.GenerateResource.cache
+F:\vp1_work2\Project2\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.csproj.CoreCompileInputs.cache
